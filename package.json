@@ -1,0 +1,14 @@
+{
+  "name": "Electron-New-App",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/mehmetsalihyaldiz/Electron-New-App.git",
+  "author": "Mehmet Salih YALDIZ",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "18.2.4"
+  }
+}
